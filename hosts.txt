@@ -21,7 +21,7 @@
 #	::1             localhost
 
 # Para Proxy Reverso
-127.0.0.1       paginawebhector.com
+127.0.0.1       paginawebAlvaro.com
 
 # Para Balancedor de Carga
 172.17.0.2     server1.com
